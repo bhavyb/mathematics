@@ -68,3 +68,6 @@ Key formulas
 - Expected value: E[X] = Σ k·P(X=k).
 - Variance: Var(X) = Σ (k − E[X])^2·P(X=k).
 - Bayes' theorem: P(A|B) = [P(B|A)·P(A)] / P(B).
+
+
+**Video link ==> https://drive.google.com/drive/folders/1Wvll_bHOk7gCUmxaYRrcLnjCC5S9V2Ft **
