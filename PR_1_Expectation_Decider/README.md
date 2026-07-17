@@ -70,4 +70,4 @@ Key formulas
 - Bayes' theorem: P(A|B) = [P(B|A)·P(A)] / P(B).
 
 
-**Video link ==> https://drive.google.com/drive/folders/1Wvll_bHOk7gCUmxaYRrcLnjCC5S9V2Ft **
+**Video link** ==> https://drive.google.com/drive/folders/1Wvll_bHOk7gCUmxaYRrcLnjCC5S9V2Ft
