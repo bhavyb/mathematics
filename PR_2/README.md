@@ -43,15 +43,4 @@ Part B (`Part_B.ipynb`) applies the Part A concepts directly to `health_records.
 2. **H₀:** Diabetes rate does not differ significantly across age groups. **H₁:** It does. → Tested via **one-way ANOVA**.
 3. **H₀:** Mean BMI does not differ between males and females. **H₁:** It does. → Tested via **critical value / z-test**.
 
-
-## 📈 Key Findings
-
-| Test | Statistic | p-value | Decision |
-|---|---|---|---|
-| Confidence Intervals (age, weight, BMI, BP, cholesterol, glucose) | — | — | 95% CIs computed for all 6 variables |
-| Critical value / Z-test — BMI: Male vs Female | Z = -0.4950 | 0.6206 | **Fail to Reject H₀** — no significant BMI difference by gender |
-| Chi-square — Smoking vs Diabetes | χ² = 20.8283 (df=2) | < 0.0001 | **Reject H₀** — smoking and diabetes are significantly associated |
-| ANOVA — Diabetes rate across Age Groups | F = 4.5213 | 0.0013 | **Reject H₀** — diabetes rate differs significantly by age group |
-| Covariance / Correlation — Age vs BMI | Cov = 14.36, r = 0.2235 | — | Weak positive relationship |
-
 **Conclusion:** Smoking status and age group are significantly associated with disease occurrence in this dataset, while gender shows no significant effect on BMI. Age and BMI show a statistically significant but weak positive correlation. Full working and interpretation is in `Part_B.ipynb`.
