@@ -7,8 +7,6 @@ https://drive.google.com/drive/folders/1CDAvA1-B1MKlptTYmFy697g2CctqlBBK
 
 ## 📘 Part A — Theoretical Foundation
 
-Part A is represented by the theory notes in the workbook and supports the analysis in `Part_B.ipynb`.
-
 1. **Bernoulli distribution** — models whether a transaction occurs or not on a given day.
 2. **Binomial distribution** — models counts of transactions in a fixed number of trials, such as weekly transaction events.
 3. **Poisson distribution** — models the number of events occurring in a fixed interval of time, such as daily transaction counts.
