@@ -1,5 +1,7 @@
 # Calculative Foundation
 
+## Video link ==> https://drive.google.com/drive/folders/1YDPa1ORvYBLnfVJxUEQ4BGlaWha7VhVX
+
 A hands-on Linear Algebra project that i applies core vector, matrix, geometric, and eigendecomposition concepts to a small dataset (Math, Physics, Chemistry across 5 students).
 
 ## Dataset
