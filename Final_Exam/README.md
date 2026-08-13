@@ -5,6 +5,8 @@
 
 ---
 
+## Video link ==> https://drive.google.com/drive/folders/1HoEm4HC2YyC6ETSvGnS_0kUAFKzhAi8l
+
 ## Part A — Theory (Short Questions)
 
 ### Q1. Explain Mean, Median, and Mode with a real-life example.
